@@ -1,12 +1,20 @@
 ## Daily Planner
 
-- 📚 English Training
-- 💼 Business planning
-- 💻 C#
-- 📖 Lecture (Les Miserables)
-- 🎨 Figma Design
-- 🎥 Davinci Resolve
+- 📊 GraphQL 
 
+- 📚 English Training
+- 🎨 Figma Design
+
+- 🐍 Python
+- 🐍 Django
+- 🔑 OAuth  
+- 🌐 WebSockets 
+- 🌐 Redis 
+
+- 💻 C#
+- 💼 Business planning
+- 📖 Lecture (Les Miserables)
+- 🎥 Davinci Resolve
 #### Languages and Frameworks
 
 | Task            | Description       | Status     |

@@ -1,5 +1,19 @@
 # Roadmap
 
+GraphQL
+Websoket
+redis
+
+angular 
+python
+
+Firebase, Firestore, Firebase Auth
+Kafka 
+RESTful or GraphQL APIs
+Terraform
+TailwindCSS
+AWS Lambda o Google Cloud Functions con Node JS y Typescript (EXCLUYENTE)
+patrones de arquitectura
 <br><br>
 
 ## Cloud Providers ☁️
